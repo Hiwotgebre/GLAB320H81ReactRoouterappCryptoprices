@@ -3,7 +3,7 @@ import "./App.css";
 // Import Route and our components
 import { Route, Routes } from "react-router-dom";
 import Currencies from "./pages/Currencies";
-import Main from "./pages/.";
+import Main from "./pages/Main";
 import Price from "./pages/Price";
 import Nav from "./components/Nav";
 
